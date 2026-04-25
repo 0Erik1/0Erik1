@@ -1,3 +1,3 @@
 
-# Olá! me chamo Érik Pinheiro 😁
+# Olá! me chamo Érik Pinheiro 
 
