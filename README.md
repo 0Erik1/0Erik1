@@ -25,5 +25,5 @@ Sou estudante do **IFCE - Crato** e estou dedicando meus estudos para me tornar 
 
 ### 📫 Contato
 
-- **LinkedIn:** [Érik Pinheiro]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/erik-pinheiro-dev/))
+- **LinkedIn:** [Érik Pinheiro](https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/erik-pinheiro-dev/)
 - **E-mail:** [erikpinheiroalves@gmail.com](mailto:erikpinheiroalves@gmail.com)
