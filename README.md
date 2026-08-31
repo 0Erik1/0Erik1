@@ -22,13 +22,17 @@ Sou estudante do **IFCE - Crato** e estou dedicando meus estudos para me tornar 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Erik1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Erik1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0Erik1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="Estatísticas de Commits e Contribuições" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Erik1&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
+</div>
 ---
 
 ### 📫 Contato
