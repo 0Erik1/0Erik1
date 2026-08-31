@@ -1,45 +1,37 @@
-# Olá, eu sou o Érik! 👋
+# Olá, eu sou o Erik! 👋
 
-### 🚀 Desenvolvedor Back-end
-
---- 📖 Estudando com foco em Back-end
---- 📚 IFCE - Crato
-
-
-### 🛠️ Tecnologias & Ferramentas
-
-#### 💻 Linguagens
-p- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-
-#### ⚙️ Tecnologias & Frameworks
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+Sou estudante do **IFCE - Crato** e estou dedicando meus estudos para me tornar desenvolvedor **Back-end**. 
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens**  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Tecnologias e Banco de Dados**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0Erik1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Erik1&layout=compact&theme=dark&hide=html,css" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0Erik1&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0Erik1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Erik1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
 
-### 📫 Entre em contato comigo
+### 📫 Contato
 
-- **LinkedIn:** [Seu Nome Aqui](https://www.linkedin.com/in/SEU_USUARIO_AQUI)
+- **LinkedIn:** [Seu Nome Aqui](https://linkedin.com/in/seu-usuario)
 - **E-mail:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
