@@ -22,20 +22,8 @@ Sou estudante do **IFCE - Crato** e estou dedicando meus estudos para me tornar 
 
 ---
 
-### 📊 Estatísticas e Contribuições
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Erik1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="Estatísticas de Commits e Contribuições" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Erik1&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
-</div>
----
 
 ### 📫 Contato
 
-- **LinkedIn:** [Seu Nome Aqui](https://linkedin.com/in/seu-usuario)
-- **E-mail:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- **LinkedIn:** [Seu Nome Aqui]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/erik-pinheiro-dev/))
+- **E-mail:** [seuemail@exemplo.com](mailto:erikpinheiroalves@gmail.com)
